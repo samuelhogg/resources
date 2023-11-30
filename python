@@ -1,1 +1,19 @@
+### Python Virtual Environment
 
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+### PIP
+
+pip install <packagename>
+
+pip list
+
+pip uninstall <packagename>
+
+pip uninstall -y -r <(pip freeze) # Uninstall All
+
+### Bash
+
+python3 -c "import libtorrent; print (libtorrent.version)"
