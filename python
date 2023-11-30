@@ -17,3 +17,7 @@ pip uninstall -y -r <(pip freeze) # Uninstall All
 ### Bash
 
 python3 -c "import libtorrent; print (libtorrent.version)"
+
+### Find Python Module Methods
+
+python3 -c "import PirateBayAPI; help(PirateBayAPI)"
