@@ -21,3 +21,11 @@ python3 -c "import libtorrent; print (libtorrent.version)"
 ### Find Python Module Methods
 
 python3 -c "import PirateBayAPI; help(PirateBayAPI)"
+
+### Anacondaa
+
+https://www.anaconda.com/download/
+
+### Django
+
+https://www.djangoproject.com/download/
